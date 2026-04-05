@@ -1,7 +1,7 @@
 # AI Fundamentals for Data Domain
 
 ### Watch The Full Tutorial On YouTube
-- 
+- https://youtu.be/kHq77-I1ZjE?si=jTGsQT4ZcX1Iijse
 
 A comprehensive, hands-on course designed to teach the core concepts and practical applications of Artificial Intelligence in the data domain. From LLMs and embeddings to building AI agents, this course provides a structured path to mastering modern AI technologies.
 
