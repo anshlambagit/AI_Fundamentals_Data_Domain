@@ -1,5 +1,5 @@
 def main():
-    print("Hello from ai-fundamentals!")
+    print("Hello from ai-fundamentals.!")
 
 
 if __name__ == "__main__":
